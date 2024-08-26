@@ -1,0 +1,3514 @@
+{
+	"userInfo": {
+		"institute": false,
+		"member": false,
+		"individual": false,
+		"guest": false,
+		"subscribedContent": false,
+		"fileCabinetContent": false,
+		"fileCabinetUser": false,
+		"institutionalFileCabinetUser": false,
+		"ip": "240e:340:d1dc:2100:3c7f:d9b7:8d80:b826",
+		"showPatentCitations": true,
+		"showGet802Link": false,
+		"isReadAndPublish": false
+	},
+	"records": [
+		{
+			"authors": [
+				{
+					"preferredName": "Juozas Balamutas",
+					"normalizedName": "J. Balamutas",
+					"firstName": "Juozas",
+					"lastName": "Balamutas",
+					"searchablePreferredName": "Juozas Balamutas",
+					"id": 37089575469
+				},
+				{
+					"preferredName": "Dangirutis Navikas",
+					"normalizedName": "D. Navikas",
+					"firstName": "Dangirutis",
+					"lastName": "Navikas",
+					"searchablePreferredName": "Dangirutis Navikas",
+					"id": 37281950200
+				},
+				{
+					"preferredName": "Vytautas Markevičius",
+					"normalizedName": "V. Markevičius",
+					"firstName": "Vytautas",
+					"lastName": "Markevičius",
+					"searchablePreferredName": "Vytautas Markevičius",
+					"id": 37938395400
+				},
+				{
+					"preferredName": "Mindaugas Čepėnas",
+					"normalizedName": "M. Čepėnas",
+					"firstName": "Mindaugas",
+					"lastName": "Čepėnas",
+					"searchablePreferredName": "Mindaugas Čepėnas",
+					"id": 37088498821
+				},
+				{
+					"preferredName": "Algimantas Valinevičius",
+					"normalizedName": "A. Valinevičius",
+					"firstName": "Algimantas",
+					"lastName": "Valinevičius",
+					"searchablePreferredName": "Algimantas Valinevičius",
+					"id": 37281904600
+				},
+				{
+					"preferredName": "Mindaugas Žilys",
+					"normalizedName": "M. Žilys",
+					"firstName": "Mindaugas",
+					"lastName": "Žilys",
+					"searchablePreferredName": "Mindaugas Žilys",
+					"id": 37281900100
+				},
+				{
+					"preferredName": "Michal Prauzek",
+					"normalizedName": "M. Prauzek",
+					"firstName": "Michal",
+					"lastName": "Prauzek",
+					"searchablePreferredName": "Michal Prauzek",
+					"id": 37541399700
+				},
+				{
+					"preferredName": "Jaromir Konecny",
+					"normalizedName": "J. Konecny",
+					"firstName": "Jaromir",
+					"lastName": "Konecny",
+					"searchablePreferredName": "Jaromir Konecny",
+					"id": 37086234132
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Darius Andriukaitis",
+					"normalizedName": "D. Andriukaitis",
+					"firstName": "Darius",
+					"lastName": "Andriukaitis",
+					"searchablePreferredName": "Darius Andriukaitis",
+					"id": 37296420200
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "open-access",
+				"message": "Open Access"
+			},
+			"publicationNumber": "6287639",
+			"publicationYear": "2024",
+			"doi": "10.1109/ACCESS.2024.3433615",
+			"graphicalAbstract": {},
+			"issue": "99",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=6287639",
+			"startPage": "1",
+			"endPage": "1",
+			"pdfSize": "2255",
+			"ephemera": false,
+			"isNumber": "6514899",
+			"articleNumber": "10609373",
+			"documentLink": "/document/10609373/",
+			"articleTitle": "Vehicle Re-Identification Based on Multiple Magnetic Signatures Features Evaluation",
+			"volume": "PP",
+			"showVideo": false,
+			"downloadCount": 43,
+			"showHtml": false,
+			"rightslinkFlag": false,
+			"htmlLink": "/document/10609373/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Early Access Articles",
+			"displayPublicationTitle": "IEEE Access",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10609373",
+			"abstract": "In Intelligent Transportation Systems the identification and tracking of vehicles play an important role in enhancing traffic management, security, and overall road safety. Traditional means for vehicle re-identification rely solely on video-based systems which are not resilient to harsh environment conditions, suffer from visual obstructions, and are facing other challenges. To address these shor...",
+			"articleContentType": "Early Access Articles",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Vehicle Re-Identification Based on Multiple Magnetic Signatures Features Evaluation",
+			"publicationTitle": "IEEE Access",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Early Access Articles",
+			"isStandard": false,
+			"isEarlyAccess": true,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": false,
+			"isMagazine": false,
+			"displayContentType": "Early Access Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Songlin Hu",
+					"normalizedName": "S. Hu",
+					"firstName": "Songlin",
+					"lastName": "Hu",
+					"searchablePreferredName": "Songlin Hu",
+					"id": 37982807000
+				},
+				{
+					"preferredName": "Yong Ma",
+					"normalizedName": "Y. Ma",
+					"firstName": "Yong",
+					"lastName": "Ma",
+					"searchablePreferredName": "Yong Ma",
+					"id": 37086311430
+				},
+				{
+					"preferredName": "Xin Qi",
+					"normalizedName": "X. Qi",
+					"firstName": "Xin",
+					"lastName": "Qi",
+					"searchablePreferredName": "Xin Qi",
+					"id": 441273050802280
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Reza Malekian",
+					"normalizedName": "R. Malekian",
+					"firstName": "Reza",
+					"lastName": "Malekian",
+					"searchablePreferredName": "Reza Malekian",
+					"id": 37660874600
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. A. Sotelo",
+					"firstName": "Miguel Angel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "6979",
+			"publicationYear": "2024",
+			"doi": "10.1109/TITS.2024.3422028",
+			"graphicalAbstract": {},
+			"issue": "99",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=6979",
+			"startPage": "1",
+			"endPage": "13",
+			"pdfSize": "1422",
+			"ephemera": false,
+			"isNumber": "4358928",
+			"articleNumber": "10596989",
+			"documentLink": "/document/10596989/",
+			"articleTitle": " $L_{2}$ -Gain-Based Path Following Control for Autonomous Vehicles Under Time-Constrained DoS Attacks",
+			"volume": "PP",
+			"showVideo": false,
+			"downloadCount": 64,
+			"showHtml": false,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6979&title=%24L_%7B2%7D%24+-Gain-Based+Path+Following+Control+for+Autonomous+Vehicles+Under+Time-Constrained+DoS+Attacks&isbn=null&publicationDate=12+Jul+2024&author=Songlin+Hu%3B+Yong+Ma%3B+Xin+Qi%3B+Zhixiong+Li%3B+Reza+Malekian%3B+Miguel+Angel+Sotelo&ContentID=10.1109/TITS.2024.3422028&orderBeanReset=true&startPage=1&endPage=13&volumeNum=PP&issueNum=99",
+			"htmlLink": "/document/10596989/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Early Access Articles",
+			"displayPublicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10596989",
+			"abstract": "Autonomous vehicles (AVs) are being enhanced by introducing wireless communication to improve their intelligence, reliability and efficiency. Despite all of these distinct advantages, the open wireless communication links and connectivity make the AVs’ vulnerability to cyber-attacks. This paper proposes an  $L_{2}$ -gain-based resilient path following control strategy for AVs under time-constraine...",
+			"articleContentType": "Early Access Articles",
+			"isImmersiveArticle": false,
+			"highlightedTitle": " $L_{2}$ -Gain-Based Path Following Control for Autonomous Vehicles Under Time-Constrained DoS Attacks",
+			"publicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Early Access Articles",
+			"isStandard": false,
+			"isEarlyAccess": true,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": false,
+			"isMagazine": false,
+			"displayContentType": "Early Access Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Bei Li",
+					"normalizedName": "B. Li",
+					"firstName": "Bei",
+					"lastName": "Li",
+					"searchablePreferredName": "Bei Li",
+					"id": 37088580599
+				},
+				{
+					"preferredName": "Jiangchen Li",
+					"normalizedName": "J. Li",
+					"firstName": "Jiangchen",
+					"lastName": "Li",
+					"searchablePreferredName": "Jiangchen Li",
+					"id": 37086018104
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. Angel Sotelo",
+					"firstName": "Miguel",
+					"lastName": "Angel Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "6979",
+			"publicationDate": "July 2024",
+			"publicationYear": "2024",
+			"doi": "10.1109/TITS.2024.3409532",
+			"graphicalAbstract": {},
+			"issue": "7",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=6979",
+			"startPage": "8181",
+			"endPage": "8192",
+			"pdfSize": "4831",
+			"ephemera": false,
+			"isNumber": "10582787",
+			"articleNumber": "10557141",
+			"documentLink": "/document/10557141/",
+			"articleTitle": "Real-Time Hydrogen Refuelling of the Fuel Cell Electric Vehicle Through the Coupled Transportation Network and Power System",
+			"volume": "25",
+			"showVideo": false,
+			"downloadCount": 127,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6979&title=Real-Time+Hydrogen+Refuelling+of+the+Fuel+Cell+Electric+Vehicle+Through+the+Coupled+Transportation+Network+and+Power+System&isbn=null&publicationDate=July+2024&author=Bei+Li%3B+Jiangchen+Li%3B+Zhixiong+Li%3B+Miguel+Angel+Sotelo&ContentID=10.1109/TITS.2024.3409532&orderBeanReset=true&startPage=8181&endPage=8192&volumeNum=25&issueNum=7",
+			"htmlLink": "/document/10557141/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10557141",
+			"abstract": "At present, hydrogen fuel cell electric vehicle (HFCEV) is increasingly affordable to replace petrol vehicles and reduce carbon dioxide emissions. However, the refuelling of the HFCEV is still an essential problem. Specifically, there are not enough hydrogen refuelling stations at hand. In this paper, a hydrogen based microgrid is presented to produce hydrogen to refuel the HFCEV, and different st...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Real-Time Hydrogen Refuelling of the Fuel Cell Electric Vehicle Through the Coupled Transportation Network and Power System",
+			"publicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Hai Wang",
+					"normalizedName": "H. Wang",
+					"firstName": "Hai",
+					"lastName": "Wang",
+					"searchablePreferredName": "Hai Wang",
+					"id": 37899359800
+				},
+				{
+					"preferredName": "Yaqing Niu",
+					"normalizedName": "Y. Niu",
+					"firstName": "Yaqing",
+					"lastName": "Niu",
+					"searchablePreferredName": "Yaqing Niu",
+					"id": 37529866300
+				},
+				{
+					"preferredName": "Long Chen",
+					"normalizedName": "L. Chen",
+					"firstName": "Long",
+					"lastName": "Chen",
+					"searchablePreferredName": "Long Chen",
+					"id": 37406304800
+				},
+				{
+					"preferredName": "Yicheng Li",
+					"normalizedName": "Y. Li",
+					"firstName": "Yicheng",
+					"lastName": "Li",
+					"searchablePreferredName": "Yicheng Li",
+					"id": 37085702850
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. A. Sotelo",
+					"firstName": "Miguel Angel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Yingfeng Cai",
+					"normalizedName": "Y. Cai",
+					"firstName": "Yingfeng",
+					"lastName": "Cai",
+					"searchablePreferredName": "Yingfeng Cai",
+					"id": 37085727419
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "6979",
+			"publicationDate": "Aug. 2024",
+			"publicationYear": "2024",
+			"doi": "10.1109/TITS.2024.3367723",
+			"graphicalAbstract": {},
+			"issue": "8",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=6979",
+			"startPage": "9058",
+			"endPage": "9068",
+			"pdfSize": "10214",
+			"ephemera": false,
+			"isNumber": "10621861",
+			"articleNumber": "10462015",
+			"documentLink": "/document/10462015/",
+			"articleTitle": "DAIR-V2XReid: A New Real-World Vehicle-Infrastructure Cooperative Re-ID Dataset and Cross-Shot Feature Aggregation Network Perception Method",
+			"volume": "25",
+			"showVideo": false,
+			"downloadCount": 155,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6979&title=DAIR-V2XReid%3A+A+New+Real-World+Vehicle-Infrastructure+Cooperative+Re-ID+Dataset+and+Cross-Shot+Feature+Aggregation+Network+Perception+Method&isbn=null&publicationDate=Aug.+2024&author=Hai+Wang%3B+Yaqing+Niu%3B+Long+Chen%3B+Yicheng+Li%3B+Miguel+Angel+Sotelo%3B+Zhixiong+Li%3B+Yingfeng+Cai&ContentID=10.1109/TITS.2024.3367723&orderBeanReset=true&startPage=9058&endPage=9068&volumeNum=25&issueNum=8",
+			"htmlLink": "/document/10462015/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10462015",
+			"abstract": "As an emerging research field, vehicle re-identification (Re-ID) can realize identity search between the vehicles, which plays an important role in the over-the-horizon perception of Vehicle-Infrastructure Cooperative Autonomous Driving (VICAD). At present, due to the lack of data sets, the relevant research on Vehicle-Infrastructure Cooperative (VIC) Re-ID can only be evaluated in the cross-view ...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "DAIR-V2XReid: A New Real-World Vehicle-Infrastructure Cooperative Re-ID Dataset and Cross-Shot Feature Aggregation Network Perception Method",
+			"publicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Yong Ma",
+					"normalizedName": "Y. Ma",
+					"firstName": "Yong",
+					"lastName": "Ma",
+					"searchablePreferredName": "Yong Ma",
+					"id": 37086311430
+				},
+				{
+					"preferredName": "Xin Qi",
+					"normalizedName": "X. Qi",
+					"firstName": "Xin",
+					"lastName": "Qi",
+					"searchablePreferredName": "Xin Qi",
+					"id": 441273050802280
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Songlin Hu",
+					"normalizedName": "S. Hu",
+					"firstName": "Songlin",
+					"lastName": "Hu",
+					"searchablePreferredName": "Songlin Hu",
+					"id": 37982807000
+				},
+				{
+					"preferredName": "Miguel Ángel Sotelo",
+					"normalizedName": "M. Á. Sotelo",
+					"firstName": "Miguel Ángel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Ángel Sotelo",
+					"id": 37282216100
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "25",
+			"publicationDate": "April 2024",
+			"publicationYear": "2024",
+			"doi": "10.1109/TVT.2023.3334694",
+			"graphicalAbstract": {},
+			"issue": "4",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=25",
+			"startPage": "5824",
+			"endPage": "5833",
+			"pdfSize": "1799",
+			"ephemera": false,
+			"isNumber": "10504682",
+			"articleNumber": "10334002",
+			"documentLink": "/document/10334002/",
+			"articleTitle": "Resilient Control for Networked Unmanned Surface Vehicles With Dynamic Event-Triggered Mechanism Under Aperiodic DoS Attacks",
+			"volume": "73",
+			"showVideo": false,
+			"downloadCount": 390,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=25&title=Resilient+Control+for+Networked+Unmanned+Surface+Vehicles+With+Dynamic+Event-Triggered+Mechanism+Under+Aperiodic+DoS+Attacks&isbn=null&publicationDate=April+2024&author=Yong+Ma%3B+Xin+Qi%3B+Zhixiong+Li%3B+Songlin+Hu%3B+Miguel+%C3%81ngel+Sotelo&ContentID=10.1109/TVT.2023.3334694&orderBeanReset=true&startPage=5824&endPage=5833&volumeNum=73&issueNum=4",
+			"htmlLink": "/document/10334002/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Vehicular Technology",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10334002",
+			"abstract": "This article investigates the problem of resilient dynamic event-triggered control for networked unmanned surface vehicles (USVs) with external disturbance in the presence of transmission delay and aperiodic DoS attacks. First, a network-based USV control system model is constructed and converted into a state space. Second, a resilient dynamic event-triggered scheme is designed to save system comm...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Resilient Control for Networked Unmanned Surface Vehicles With Dynamic Event-Triggered Mechanism Under Aperiodic DoS Attacks",
+			"publicationTitle": "IEEE Transactions on Vehicular Technology",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Yicheng Li",
+					"normalizedName": "Y. Li",
+					"firstName": "Yicheng",
+					"lastName": "Li",
+					"searchablePreferredName": "Yicheng Li",
+					"id": 37085702850
+				},
+				{
+					"preferredName": "Feng Feng",
+					"normalizedName": "F. Feng",
+					"firstName": "Feng",
+					"lastName": "Feng",
+					"searchablePreferredName": "Feng Feng",
+					"id": 602876608279523
+				},
+				{
+					"preferredName": "Yingfeng Cai",
+					"normalizedName": "Y. Cai",
+					"firstName": "Yingfeng",
+					"lastName": "Cai",
+					"searchablePreferredName": "Yingfeng Cai",
+					"id": 37085727419
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. A. Sotelo",
+					"firstName": "Miguel Angel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "6979",
+			"publicationDate": "Feb. 2024",
+			"publicationYear": "2024",
+			"doi": "10.1109/TITS.2023.3320088",
+			"graphicalAbstract": {},
+			"issue": "2",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=6979",
+			"startPage": "1317",
+			"endPage": "1332",
+			"pdfSize": "3439",
+			"ephemera": false,
+			"isNumber": "10419116",
+			"articleNumber": "10285566",
+			"documentLink": "/document/10285566/",
+			"articleTitle": "Localization for Intelligent Vehicles in Underground Car Parks Based on Semantic Information",
+			"volume": "25",
+			"showVideo": false,
+			"downloadCount": 768,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6979&title=Localization+for+Intelligent+Vehicles+in+Underground+Car+Parks+Based+on+Semantic+Information&isbn=null&publicationDate=Feb.+2024&author=Yicheng+Li%3B+Feng+Feng%3B+Yingfeng+Cai%3B+Zhixiong+Li%3B+Miguel+Angel+Sotelo&ContentID=10.1109/TITS.2023.3320088&orderBeanReset=true&startPage=1317&endPage=1332&volumeNum=25&issueNum=2",
+			"htmlLink": "/document/10285566/",
+			"citationCount": 6,
+			"citationsLink": "/document/10285566/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10285566",
+			"abstract": "Global navigation satellite system (GNSS) signals cannot be received indoors, thus to deploy intelligent vehicles in underground car parks other localization methods are needed. In this paper, we use various carpark signs that are widely and uniformly distributed in underground parking lots as localization references. We propose a coarse-to-fine multiscale localization method that relies solely on...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Localization for Intelligent Vehicles in Underground Car Parks Based on Semantic Information",
+			"publicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Wanli Liu",
+					"normalizedName": "W. Liu",
+					"firstName": "Wanli",
+					"lastName": "Liu",
+					"searchablePreferredName": "Wanli Liu",
+					"id": 37405584400
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Weihua Li",
+					"normalizedName": "W. Li",
+					"firstName": "Weihua",
+					"lastName": "Li",
+					"searchablePreferredName": "Weihua Li",
+					"id": 37898013800
+				},
+				{
+					"preferredName": "Paolo Gardoni",
+					"normalizedName": "P. Gardoni",
+					"firstName": "Paolo",
+					"lastName": "Gardoni",
+					"searchablePreferredName": "Paolo Gardoni",
+					"id": 37085589294
+				},
+				{
+					"preferredName": "Haiping Du",
+					"normalizedName": "H. Du",
+					"firstName": "Haiping",
+					"lastName": "Du",
+					"searchablePreferredName": "Haiping Du",
+					"id": 37395441600
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. A. Sotelo",
+					"firstName": "Miguel Angel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "3516",
+			"publicationDate": "June 2024",
+			"publicationYear": "2024",
+			"doi": "10.1109/TMECH.2023.3317018",
+			"graphicalAbstract": {},
+			"issue": "3",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=3516",
+			"startPage": "1878",
+			"endPage": "1890",
+			"pdfSize": "2789",
+			"ephemera": false,
+			"isNumber": "10559916",
+			"articleNumber": "10281393",
+			"documentLink": "/document/10281393/",
+			"articleTitle": "Time Delay Error Online Correction of LiDAR-IMU System Through MSCKF Integrated DLRNN Method",
+			"volume": "29",
+			"showVideo": false,
+			"downloadCount": 166,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=3516&title=Time+Delay+Error+Online+Correction+of+LiDAR-IMU+System+Through+MSCKF+Integrated+DLRNN+Method&isbn=null&publicationDate=June+2024&author=Wanli+Liu%3B+Zhixiong+Li%3B+Weihua+Li%3B+Paolo+Gardoni%3B+Haiping+Du%3B+Miguel+Angel+Sotelo&ContentID=10.1109/TMECH.2023.3317018&orderBeanReset=true&startPage=1878&endPage=1890&volumeNum=29&issueNum=3",
+			"htmlLink": "/document/10281393/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE/ASME Transactions on Mechatronics",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10281393",
+			"abstract": "When fusing the measurement data with different sampling frequencies from the light detection and ranging (LiDAR) and inertial measurement unit (IMU), their timestamps should be exactly aligned. However, in reality the timestamps of LiDAR and IMU are typically subject to different influences, which will inevitably generate the time delay error to reduce the accuracy and robustness of the LiDAR-IMU...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Time Delay Error Online Correction of LiDAR-IMU System Through MSCKF Integrated DLRNN Method",
+			"publicationTitle": "IEEE/ASME Transactions on Mechatronics",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Kuosheng Jiang",
+					"normalizedName": "K. Jiang",
+					"firstName": "Kuosheng",
+					"lastName": "Jiang",
+					"searchablePreferredName": "Kuosheng Jiang",
+					"id": 37086913900
+				},
+				{
+					"preferredName": "Lei Yue",
+					"normalizedName": "L. Yue",
+					"firstName": "Lei",
+					"lastName": "Yue",
+					"searchablePreferredName": "Lei Yue",
+					"id": 37090066389
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "19",
+			"publicationDate": "2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/TIM.2023.3325518",
+			"graphicalAbstract": {},
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=19",
+			"startPage": "1",
+			"endPage": "9",
+			"externalId": "9514109",
+			"pdfSize": "1959",
+			"ephemera": false,
+			"isNumber": "10012124",
+			"articleNumber": "10297556",
+			"documentLink": "/document/10297556/",
+			"articleTitle": "Measurement of the Complex Motion of Tapping Machine Spindle Based on Mechanical Profile Modulation",
+			"volume": "72",
+			"showVideo": false,
+			"downloadCount": 125,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=19&title=Measurement+of+the+Complex+Motion+of+Tapping+Machine+Spindle+Based+on+Mechanical+Profile+Modulation&isbn=null&publicationDate=2023&author=Kuosheng+Jiang%3B+Lei+Yue%3B+Zhixiong+Li&ContentID=10.1109/TIM.2023.3325518&orderBeanReset=true&startPage=1&endPage=9&volumeNum=72",
+			"htmlLink": "/document/10297556/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10297556",
+			"abstract": "Measuring the integrated parameters of a tapping machine spindle enables the adjustment and optimization of machining processes. In this article, a novel integrated nondestructive dynamic parameter measurement mechanism that can monitor the motion of tapping machine spindle rotations, circumferential oscillations, and axial feeds is proposed. The proposed method includes the following two contribu...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Measurement of the Complex Motion of Tapping Machine Spindle Based on Mechanical Profile Modulation",
+			"publicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Yuansheng Cheng",
+					"normalizedName": "Y. Cheng",
+					"firstName": "Yuansheng",
+					"lastName": "Cheng",
+					"searchablePreferredName": "Yuansheng Cheng",
+					"id": 37089891029
+				},
+				{
+					"preferredName": "Zufeng Zhang",
+					"normalizedName": "Z. Zhang",
+					"firstName": "Zufeng",
+					"lastName": "Zhang",
+					"searchablePreferredName": "Zufeng Zhang",
+					"id": 37089413031
+				},
+				{
+					"preferredName": "Grzegorz M. Królczyk",
+					"normalizedName": "G. M. Królczyk",
+					"firstName": "Grzegorz M.",
+					"lastName": "Królczyk",
+					"searchablePreferredName": "Grzegorz M. Królczyk",
+					"id": 37088929923
+				},
+				{
+					"preferredName": "Sifa Zheng",
+					"normalizedName": "S. Zheng",
+					"firstName": "Sifa",
+					"lastName": "Zheng",
+					"searchablePreferredName": "Sifa Zheng",
+					"id": 37086475843
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "5289",
+			"publicationDate": "November 2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/MIM.2023.10292625",
+			"graphicalAbstract": {},
+			"issue": "8",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=5289",
+			"startPage": "48",
+			"endPage": "54",
+			"pdfSize": "698",
+			"ephemera": false,
+			"isNumber": "10292617",
+			"articleNumber": "10292625",
+			"documentLink": "/document/10292625/",
+			"articleTitle": "A LOW-Cost Multi-Frequency Testing Platform for Non-Contact Vibration Measurement",
+			"volume": "26",
+			"showVideo": false,
+			"downloadCount": 125,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=5289&title=A+LOW-Cost+Multi-Frequency+Testing+Platform+for+Non-Contact+Vibration+Measurement&isbn=null&publicationDate=November+2023&author=Yuansheng+Cheng%3B+Zufeng+Zhang%3B+Grzegorz+M.+Kr%C3%B3lczyk%3B+Sifa+Zheng%3B+Zhixiong+Li&ContentID=10.1109/MIM.2023.10292625&orderBeanReset=true&startPage=48&endPage=54&volumeNum=26&issueNum=8",
+			"htmlLink": "/document/10292625/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Magazines",
+			"majorTopic": "Features",
+			"displayPublicationTitle": "IEEE Instrumentation & Measurement Magazine",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10292625",
+			"abstract": "The machine vision-based non-contact vibration measurement is currently one of the hottest research topics in the instrumentation and measurement field. Single-frequency experiments are usually used to evaluate the non-contact measurement quality; however, in reality, it is difficult/impossible to quantify the non-contact vibration measurement using a single-frequency excitation. To bridge this re...",
+			"articleContentType": "Magazines",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "A LOW-Cost Multi-Frequency Testing Platform for Non-Contact Vibration Measurement",
+			"publicationTitle": "IEEE Instrumentation & Measurement Magazine",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Magazines",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Magazine Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Shizhe Feng",
+					"normalizedName": "S. Feng",
+					"firstName": "Shizhe",
+					"lastName": "Feng",
+					"searchablePreferredName": "Shizhe Feng",
+					"id": 160330858276295
+				},
+				{
+					"preferredName": "Qingjian Sun",
+					"normalizedName": "Q. Sun",
+					"firstName": "Qingjian",
+					"lastName": "Sun",
+					"searchablePreferredName": "Qingjian Sun",
+					"id": 920511474080568
+				},
+				{
+					"preferredName": "Yang Wu",
+					"normalizedName": "Y. Wu",
+					"firstName": "Yang",
+					"lastName": "Wu",
+					"searchablePreferredName": "Yang Wu",
+					"id": 37089069284
+				},
+				{
+					"preferredName": "Xu Han",
+					"normalizedName": "X. Han",
+					"firstName": "Xu",
+					"lastName": "Han",
+					"searchablePreferredName": "Xu Han",
+					"id": 37394184600
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. A. Sotelo",
+					"firstName": "Miguel Angel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "8",
+			"publicationDate": "Oct. 2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/TAP.2023.3302431",
+			"graphicalAbstract": {},
+			"issue": "10",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=8",
+			"startPage": "8030",
+			"endPage": "8039",
+			"pdfSize": "9478",
+			"ephemera": false,
+			"isNumber": "10273146",
+			"articleNumber": "10223718",
+			"documentLink": "/document/10223718/",
+			"articleTitle": "Stochastic Thermal–Structural–Electromagnetic Coupling Analysis of Phased Arrays With Random Material Parameters",
+			"volume": "71",
+			"showVideo": false,
+			"downloadCount": 578,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=8&title=Stochastic+Thermal%E2%80%93Structural%E2%80%93Electromagnetic+Coupling+Analysis+of+Phased+Arrays+With+Random+Material+Parameters&isbn=null&publicationDate=Oct.+2023&author=Shizhe+Feng%3B+Qingjian+Sun%3B+Yang+Wu%3B+Xu+Han%3B+Zhixiong+Li%3B+Miguel+Angel+Sotelo&ContentID=10.1109/TAP.2023.3302431&orderBeanReset=true&startPage=8030&endPage=8039&volumeNum=71&issueNum=10",
+			"htmlLink": "/document/10223718/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Antennas and Propagation",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10223718",
+			"abstract": "A thermal–structural–electromagnetic coupling model through the stochastic perturbation technique (SP-TSE) is proposed to deal with the stochastic analysis of the active phased array antenna (APAA) performance considering random material parameters. First, stochastic perturbation technique is employed to analyze the temperature distribution and thermal deformation of APAA, in which the randomness ...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Stochastic Thermal–Structural–Electromagnetic Coupling Analysis of Phased Arrays With Random Material Parameters",
+			"publicationTitle": "IEEE Transactions on Antennas and Propagation",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Dezheng Hua",
+					"normalizedName": "D. Hua",
+					"firstName": "Dezheng",
+					"lastName": "Hua",
+					"searchablePreferredName": "Dezheng Hua",
+					"id": 37088585941
+				},
+				{
+					"preferredName": "Xinhua Liu",
+					"normalizedName": "X. Liu",
+					"firstName": "Xinhua",
+					"lastName": "Liu",
+					"searchablePreferredName": "Xinhua Liu",
+					"id": 37088581326
+				},
+				{
+					"preferredName": "Haiping Du",
+					"normalizedName": "H. Du",
+					"firstName": "Haiping",
+					"lastName": "Du",
+					"searchablePreferredName": "Haiping Du",
+					"id": 37395441600
+				},
+				{
+					"preferredName": "Grzegorz M. Królczyk",
+					"normalizedName": "G. M. Królczyk",
+					"firstName": "Grzegorz M.",
+					"lastName": "Królczyk",
+					"searchablePreferredName": "Grzegorz M. Królczyk",
+					"id": 37088929923
+				},
+				{
+					"preferredName": "Weihua Li",
+					"normalizedName": "W. Li",
+					"firstName": "Weihua",
+					"lastName": "Li",
+					"searchablePreferredName": "Weihua Li",
+					"id": 37898013800
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "19",
+			"publicationDate": "2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/TIM.2023.3300426",
+			"graphicalAbstract": {},
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=19",
+			"startPage": "1",
+			"endPage": "12",
+			"externalId": "4009912",
+			"pdfSize": "3239",
+			"ephemera": false,
+			"isNumber": "10012124",
+			"articleNumber": "10198222",
+			"documentLink": "/document/10198222/",
+			"articleTitle": "Positioning a Magnetically Controlled Capsule Robot Based on Double-Layer Symmetric Sensor Array",
+			"volume": "72",
+			"showVideo": false,
+			"downloadCount": 325,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=19&title=Positioning+a+Magnetically+Controlled+Capsule+Robot+Based+on+Double-Layer+Symmetric+Sensor+Array&isbn=null&publicationDate=2023&author=Dezheng+Hua%3B+Xinhua+Liu%3B+Haiping+Du%3B+Grzegorz+M.+Kr%C3%B3lczyk%3B+Weihua+Li%3B+Zhixiong+Li&ContentID=10.1109/TIM.2023.3300426&orderBeanReset=true&startPage=1&endPage=12&volumeNum=72",
+			"htmlLink": "/document/10198222/",
+			"citationCount": 1,
+			"citationsLink": "/document/10198222/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10198222",
+			"abstract": "With the miniaturization of medical equipment and the comfort of diagnosis mode, positioning has become a major challenge in the research of capsule robots. In order to realize the effective positioning of magnetically controlled capsule robots, a positioning method based on double-layer symmetric sensor array is proposed in this work. First, a near-field error correction method based on multimagn...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Positioning a Magnetically Controlled Capsule Robot Based on Double-Layer Symmetric Sensor Array",
+			"publicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Mehmet Erdi Korkmaz",
+					"normalizedName": "M. E. Korkmaz",
+					"firstName": "Mehmet Erdi",
+					"lastName": "Korkmaz",
+					"searchablePreferredName": "Mehmet Erdi Korkmaz",
+					"id": 37089339553
+				},
+				{
+					"preferredName": "Munish Kumar Gupta",
+					"normalizedName": "M. K. Gupta",
+					"firstName": "Munish Kumar",
+					"lastName": "Gupta",
+					"searchablePreferredName": "Munish Kumar Gupta",
+					"id": 37088922961
+				},
+				{
+					"preferredName": "Jolanta Beata Krolczyk",
+					"normalizedName": "J. B. Krolczyk",
+					"firstName": "Jolanta Beata",
+					"lastName": "Krolczyk",
+					"searchablePreferredName": "Jolanta Beata Krolczyk",
+					"id": 37089928600
+				},
+				{
+					"preferredName": "Grzegorz Mikolaj Krolczyk",
+					"normalizedName": "G. M. Krolczyk",
+					"firstName": "Grzegorz Mikolaj",
+					"lastName": "Krolczyk",
+					"searchablePreferredName": "Grzegorz Mikolaj Krolczyk",
+					"id": 37088929923
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Nimel Sworna Ross",
+					"normalizedName": "N. S. Ross",
+					"firstName": "Nimel Sworna",
+					"lastName": "Ross",
+					"searchablePreferredName": "Nimel Sworna Ross",
+					"id": 37089874040
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "10189920",
+			"publicationDate": "19-21 June 2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/MetroAeroSpace57412.2023.10189935",
+			"graphicalAbstract": {},
+			"publicationLink": "/xpl/conhome/10189920/proceeding",
+			"startPage": "221",
+			"endPage": "225",
+			"pdfSize": "814",
+			"ephemera": false,
+			"isNumber": "10189924",
+			"articleNumber": "10189935",
+			"documentLink": "/document/10189935/",
+			"articleTitle": "A Short Review On Measurement Methods In Machining Of Aerospace Materials",
+			"showVideo": false,
+			"downloadCount": 98,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=A+Short+Review+On+Measurement+Methods+In+Machining+Of+Aerospace+Materials&isbn=null&publicationDate=19-21+June+2023&author=Mehmet+Erdi+Korkmaz%3B+Munish+Kumar+Gupta%3B+Jolanta+Beata+Krolczyk%3B+Grzegorz+Mikolaj+Krolczyk%3B+Zhixiong+Li%3B+Nimel+Sworna+Ross&ContentID=10.1109/MetroAeroSpace57412.2023.10189935&orderBeanReset=true&startPage=221&endPage=225&proceedingName=2023+IEEE+10th+International+Workshop+on+Metrology+for+AeroSpace+%28MetroAeroSpace%29",
+			"htmlLink": "/document/10189935/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Conferences",
+			"displayPublicationTitle": "2023 IEEE 10th International Workshop on Metrology for AeroSpace (MetroAeroSpace)",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10189935",
+			"abstract": "In-process measurements are becoming more and more popular among businesses as a result of the numerous benefits they provide, including reduced production costs, improved product quality, and real-time analysis of both production and product quality of aerospace materials. It is anticipated that the method of measuring manufactured components known as “in-process measurement” will become the stan...",
+			"articleContentType": "Conferences",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "A Short Review On Measurement Methods In Machining Of Aerospace Materials",
+			"publicationTitle": "2023 IEEE 10th International Workshop on Metrology for AeroSpace (MetroAeroSpace)",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Conferences",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": true,
+			"isJournal": false,
+			"isJournalAndMagazine": false,
+			"isMagazine": false,
+			"displayContentType": "Conference Paper"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Changbo He",
+					"normalizedName": "C. He",
+					"firstName": "Changbo",
+					"lastName": "He",
+					"searchablePreferredName": "Changbo He",
+					"id": 37088594134
+				},
+				{
+					"preferredName": "Pengpeng Han",
+					"normalizedName": "P. Han",
+					"firstName": "Pengpeng",
+					"lastName": "Han",
+					"searchablePreferredName": "Pengpeng Han",
+					"id": 37089236504
+				},
+				{
+					"preferredName": "Jingfeng Lu",
+					"normalizedName": "J. Lu",
+					"firstName": "Jingfeng",
+					"lastName": "Lu",
+					"searchablePreferredName": "Jingfeng Lu",
+					"id": 37089940074
+				},
+				{
+					"preferredName": "Xiaoxian Wang",
+					"normalizedName": "X. Wang",
+					"firstName": "Xiaoxian",
+					"lastName": "Wang",
+					"searchablePreferredName": "Xiaoxian Wang",
+					"id": 37086288815
+				},
+				{
+					"preferredName": "Juncai Song",
+					"normalizedName": "J. Song",
+					"firstName": "Juncai",
+					"lastName": "Song",
+					"searchablePreferredName": "Juncai Song",
+					"id": 37085743242
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Siliang Lu",
+					"normalizedName": "S. Lu",
+					"firstName": "Siliang",
+					"lastName": "Lu",
+					"searchablePreferredName": "Siliang Lu",
+					"id": 37085767814
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "19",
+			"publicationDate": "2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/TIM.2023.3295476",
+			"graphicalAbstract": {},
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=19",
+			"startPage": "1",
+			"endPage": "11",
+			"externalId": "3524011",
+			"pdfSize": "1874",
+			"ephemera": false,
+			"isNumber": "10012124",
+			"articleNumber": "10184133",
+			"documentLink": "/document/10184133/",
+			"articleTitle": "Real-Time Fault Diagnosis of Motor Bearing via Improved Cyclostationary Analysis Implemented onto Edge Computing System",
+			"volume": "72",
+			"showVideo": false,
+			"downloadCount": 501,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=19&title=Real-Time+Fault+Diagnosis+of+Motor+Bearing+via+Improved+Cyclostationary+Analysis+Implemented+onto+Edge+Computing+System&isbn=null&publicationDate=2023&author=Changbo+He%3B+Pengpeng+Han%3B+Jingfeng+Lu%3B+Xiaoxian+Wang%3B+Juncai+Song%3B+Zhixiong+Li%3B+Siliang+Lu&ContentID=10.1109/TIM.2023.3295476&orderBeanReset=true&startPage=1&endPage=11&volumeNum=72",
+			"htmlLink": "/document/10184133/",
+			"citationCount": 4,
+			"citationsLink": "/document/10184133/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10184133",
+			"abstract": "Rolling bearing is a key component inside a motor, and its health status directly affects the operational reliability of the motor. Therefore, it is absolutely necessary to conduct research on bearing fault diagnosis. Most of the recent bearing fault diagnosis algorithms are implemented on a desktop/server, which might not satisfy the real-time diagnosis requirement in industrial fields. In this s...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Real-Time Fault Diagnosis of Motor Bearing via Improved Cyclostationary Analysis Implemented onto Edge Computing System",
+			"publicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Juozas Balamutas",
+					"normalizedName": "J. Balamutas",
+					"firstName": "Juozas",
+					"lastName": "Balamutas",
+					"searchablePreferredName": "Juozas Balamutas",
+					"id": 37089575469
+				},
+				{
+					"preferredName": "Dangirutis Navikas",
+					"normalizedName": "D. Navikas",
+					"firstName": "Dangirutis",
+					"lastName": "Navikas",
+					"searchablePreferredName": "Dangirutis Navikas",
+					"id": 37281950200
+				},
+				{
+					"preferredName": "Vytautas Markevičius",
+					"normalizedName": "V. Markevičius",
+					"firstName": "Vytautas",
+					"lastName": "Markevičius",
+					"searchablePreferredName": "Vytautas Markevičius",
+					"id": 37938395400
+				},
+				{
+					"preferredName": "Mindaugas Čepėnas",
+					"normalizedName": "M. Čepėnas",
+					"firstName": "Mindaugas",
+					"lastName": "Čepėnas",
+					"searchablePreferredName": "Mindaugas Čepėnas",
+					"id": 37088498821
+				},
+				{
+					"preferredName": "Algimantas Valinevičius",
+					"normalizedName": "A. Valinevičius",
+					"firstName": "Algimantas",
+					"lastName": "Valinevičius",
+					"searchablePreferredName": "Algimantas Valinevičius",
+					"id": 37281904600
+				},
+				{
+					"preferredName": "Mindaugas Žilys",
+					"normalizedName": "M. Žilys",
+					"firstName": "Mindaugas",
+					"lastName": "Žilys",
+					"searchablePreferredName": "Mindaugas Žilys",
+					"id": 37281900100
+				},
+				{
+					"preferredName": "Michal Frivaldsky",
+					"normalizedName": "M. Frivaldsky",
+					"firstName": "Michal",
+					"lastName": "Frivaldsky",
+					"searchablePreferredName": "Michal Frivaldsky",
+					"id": 37658867900
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Darius Andriukaitis",
+					"normalizedName": "D. Andriukaitis",
+					"firstName": "Darius",
+					"lastName": "Andriukaitis",
+					"searchablePreferredName": "Darius Andriukaitis",
+					"id": 37296420200
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "open-access",
+				"message": "Open Access"
+			},
+			"publicationNumber": "6287639",
+			"publicationDate": "2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/ACCESS.2023.3278986",
+			"graphicalAbstract": {
+				"summary": "Passing Vehicle Road Occupancy Detection.",
+				"type": "graphic",
+				"file": "/ielx7/6287639/10005208/10130572/graphical_abstract/access-gagraphic-3278986.jpg",
+				"coverImage": "/ielx7/6287639/10005208/10130572/graphical_abstract/access-gagraphic-3278986.jpg"
+			},
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=6287639",
+			"startPage": "50984",
+			"endPage": "50993",
+			"pdfSize": "1443",
+			"ephemera": false,
+			"isNumber": "10005208",
+			"articleNumber": "10130572",
+			"documentLink": "/document/10130572/",
+			"articleTitle": "Passing Vehicle Road Occupancy Detection Using the Magnetic Sensor Array",
+			"volume": "11",
+			"showVideo": false,
+			"downloadCount": 517,
+			"showHtml": true,
+			"rightslinkFlag": false,
+			"htmlLink": "/document/10130572/",
+			"citationCount": 1,
+			"citationsLink": "/document/10130572/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Access",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10130572",
+			"abstract": "The increasing presence of vehicles on roads necessitates intelligent traffic management solutions in areas where video cameras cannot be utilized. Currently, there are limited choices for depersonalized vehicle reidentification systems. This paper introduces a system that later will be used for vehicle reidentification. The system uses anisotropic magnetoresistive sensors and is based on the hypo...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Passing Vehicle Road Occupancy Detection Using the Magnetic Sensor Array",
+			"publicationTitle": "IEEE Access",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Hai Wang",
+					"normalizedName": "H. Wang",
+					"firstName": "Hai",
+					"lastName": "Wang",
+					"searchablePreferredName": "Hai Wang",
+					"id": 37899359800
+				},
+				{
+					"preferredName": "Le Tao",
+					"normalizedName": "L. Tao",
+					"firstName": "Le",
+					"lastName": "Tao",
+					"searchablePreferredName": "Le Tao",
+					"id": 37090031074
+				},
+				{
+					"preferredName": "Yingfeng Cai",
+					"normalizedName": "Y. Cai",
+					"firstName": "Yingfeng",
+					"lastName": "Cai",
+					"searchablePreferredName": "Yingfeng Cai",
+					"id": 37085727419
+				},
+				{
+					"preferredName": "Long Chen",
+					"normalizedName": "L. Chen",
+					"firstName": "Long",
+					"lastName": "Chen",
+					"searchablePreferredName": "Long Chen",
+					"id": 37406304800
+				},
+				{
+					"preferredName": "Yicheng Li",
+					"normalizedName": "Y. Li",
+					"firstName": "Yicheng",
+					"lastName": "Li",
+					"searchablePreferredName": "Yicheng Li",
+					"id": 37085702850
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. A. Sotelo",
+					"firstName": "Miguel Angel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "6979",
+			"publicationDate": "Oct. 2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/TITS.2023.3273817",
+			"graphicalAbstract": {},
+			"issue": "10",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=6979",
+			"startPage": "10760",
+			"endPage": "10773",
+			"pdfSize": "14322",
+			"ephemera": false,
+			"isNumber": "10271405",
+			"articleNumber": "10128795",
+			"documentLink": "/document/10128795/",
+			"articleTitle": "CenterPoint-SE: A Single-Stage Anchor-Free 3-D Object Detection Algorithm With Spatial Awareness Enhancement",
+			"volume": "24",
+			"showVideo": false,
+			"downloadCount": 662,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6979&title=CenterPoint-SE%3A+A+Single-Stage+Anchor-Free+3-D+Object+Detection+Algorithm+With+Spatial+Awareness+Enhancement&isbn=null&publicationDate=Oct.+2023&author=Hai+Wang%3B+Le+Tao%3B+Yingfeng+Cai%3B+Long+Chen%3B+Yicheng+Li%3B+Miguel+Angel+Sotelo%3B+Zhixiong+Li&ContentID=10.1109/TITS.2023.3273817&orderBeanReset=true&startPage=10760&endPage=10773&volumeNum=24&issueNum=10",
+			"htmlLink": "/document/10128795/",
+			"citationCount": 1,
+			"citationsLink": "/document/10128795/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10128795",
+			"abstract": "Real-time and accurate 3-D object detection is one of the foundational technologies for environmental perception in autonomous vehicles. However, the existing second-stage anchor-based 3-D object detection algorithms have high accuracy, but they are challenging in terms of computation complexity and latency. Due to poor perception of spatial features, the accuracy of the existing single-stage anch...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "CenterPoint-SE: A Single-Stage Anchor-Free 3-D Object Detection Algorithm With Spatial Awareness Enhancement",
+			"publicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Yuansheng Cheng",
+					"normalizedName": "Y. Cheng",
+					"firstName": "Yuansheng",
+					"lastName": "Cheng",
+					"searchablePreferredName": "Yuansheng Cheng",
+					"id": 37089891029
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Grzegorz M. Królczyk",
+					"normalizedName": "G. M. Królczyk",
+					"firstName": "Grzegorz M.",
+					"lastName": "Królczyk",
+					"searchablePreferredName": "Grzegorz M. Królczyk",
+					"id": 37088929923
+				},
+				{
+					"preferredName": "Chunsheng Yang",
+					"normalizedName": "C. Yang",
+					"firstName": "Chunsheng",
+					"lastName": "Yang",
+					"searchablePreferredName": "Chunsheng Yang",
+					"id": 37421746000
+				},
+				{
+					"preferredName": "Ruqiang Yan",
+					"normalizedName": "R. Yan",
+					"firstName": "Ruqiang",
+					"lastName": "Yan",
+					"searchablePreferredName": "Ruqiang Yan",
+					"id": 37279709600
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "7361",
+			"publicationDate": "1 July1, 2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/JSEN.2023.3272643",
+			"graphicalAbstract": {
+				"type": "graphic",
+				"file": "/ielx7/7361/10168680/10120728/graphical_abstract/jsen-gagraphic-3272643.jpg",
+				"coverImage": "/ielx7/7361/10168680/10120728/graphical_abstract/jsen-gagraphic-3272643.jpg"
+			},
+			"issue": "13",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=7361",
+			"startPage": "14834",
+			"endPage": "14846",
+			"pdfSize": "4154",
+			"ephemera": false,
+			"isNumber": "10168680",
+			"articleNumber": "10120728",
+			"documentLink": "/document/10120728/",
+			"articleTitle": "A New Optical Sensing Device for Real-Time Noncontact Vibration Measurement Considering Light Field Variation",
+			"volume": "23",
+			"showVideo": false,
+			"downloadCount": 255,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=7361&title=A+New+Optical+Sensing+Device+for+Real-Time+Noncontact+Vibration+Measurement+Considering+Light+Field+Variation&isbn=null&publicationDate=1+July1%2C+2023&author=Yuansheng+Cheng%3B+Zhixiong+Li%3B+Grzegorz+M.+Kr%C3%B3lczyk%3B+Chunsheng+Yang%3B+Ruqiang+Yan&ContentID=10.1109/JSEN.2023.3272643&orderBeanReset=true&startPage=14834&endPage=14846&volumeNum=23&issueNum=13",
+			"htmlLink": "/document/10120728/",
+			"citationCount": 1,
+			"citationsLink": "/document/10120728/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Sensors Journal",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10120728",
+			"abstract": "Vibration measurement is essential for vibration monitoring and control. Noncontact vibration measurement is more applicable in practice than the contact measuring manner, but the noncontact methods usually pose a high requirement in the light field environment. To solve this issue, a new binocular vision method is proposed to enable noncontact vibration measurement with different light fields. In...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "A New Optical Sensing Device for Real-Time Noncontact Vibration Measurement Considering Light Field Variation",
+			"publicationTitle": "IEEE Sensors Journal",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Nimel Sworna Ross",
+					"normalizedName": "N. S. Ross",
+					"firstName": "Nimel Sworna",
+					"lastName": "Ross",
+					"searchablePreferredName": "Nimel Sworna Ross",
+					"id": 37089874040
+				},
+				{
+					"preferredName": "C. Sherin Shibi",
+					"normalizedName": "C. S. Shibi",
+					"firstName": "C. Sherin",
+					"lastName": "Shibi",
+					"searchablePreferredName": "C. Sherin Shibi",
+					"id": 37087110903
+				},
+				{
+					"preferredName": "Sithara Mohamed Mustafa",
+					"normalizedName": "S. M. Mustafa",
+					"firstName": "Sithara Mohamed",
+					"lastName": "Mustafa",
+					"searchablePreferredName": "Sithara Mohamed Mustafa",
+					"id": 37089874541
+				},
+				{
+					"preferredName": "Munish Kumar Gupta",
+					"normalizedName": "M. K. Gupta",
+					"firstName": "Munish Kumar",
+					"lastName": "Gupta",
+					"searchablePreferredName": "Munish Kumar Gupta",
+					"id": 37088922961
+				},
+				{
+					"preferredName": "Mehmet Erdi Korkmaz",
+					"normalizedName": "M. E. Korkmaz",
+					"firstName": "Mehmet Erdi",
+					"lastName": "Korkmaz",
+					"searchablePreferredName": "Mehmet Erdi Korkmaz",
+					"id": 37089339553
+				},
+				{
+					"preferredName": "Vishal S. Sharma",
+					"normalizedName": "V. S. Sharma",
+					"firstName": "Vishal S.",
+					"lastName": "Sharma",
+					"searchablePreferredName": "Vishal S. Sharma",
+					"id": 37089884483
+				},
+				{
+					"preferredName": "Z. Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Z.",
+					"lastName": "Li",
+					"searchablePreferredName": "Z. Li",
+					"id": 37279081500
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "7361",
+			"publicationDate": "15 June15, 2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/JSEN.2023.3269529",
+			"graphicalAbstract": {
+				"type": "graphic",
+				"file": "/ielx7/7361/10152544/10110326/graphical_abstract/jsen-gagraphic-3269529.jpg",
+				"coverImage": "/ielx7/7361/10152544/10110326/graphical_abstract/jsen-gagraphic-3269529.jpg"
+			},
+			"issue": "12",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=7361",
+			"startPage": "13629",
+			"endPage": "13639",
+			"pdfSize": "15870",
+			"ephemera": false,
+			"isNumber": "10152544",
+			"articleNumber": "10110326",
+			"documentLink": "/document/10110326/",
+			"articleTitle": "Measuring Surface Characteristics in Sustainable Machining of Titanium Alloys Using Deep Learning-Based Image Processing",
+			"volume": "23",
+			"showVideo": false,
+			"downloadCount": 445,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=7361&title=Measuring+Surface+Characteristics+in+Sustainable+Machining+of+Titanium+Alloys+Using+Deep+Learning-Based+Image+Processing&isbn=null&publicationDate=15+June15%2C+2023&author=Nimel+Sworna+Ross%3B+C.+Sherin+Shibi%3B+Sithara+Mohamed+Mustafa%3B+Munish+Kumar+Gupta%3B+Mehmet+Erdi+Korkmaz%3B+Vishal+S.+Sharma%3B+Z.+Li&ContentID=10.1109/JSEN.2023.3269529&orderBeanReset=true&startPage=13629&endPage=13639&volumeNum=23&issueNum=12",
+			"htmlLink": "/document/10110326/",
+			"citationCount": 17,
+			"citationsLink": "/document/10110326/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Sensors Journal",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10110326",
+			"abstract": "A crucial method of maintenance in the manufacturing industry is machine vision-based fault diagnostics and condition monitoring of machine tools. The friction that occurs between the tool and the workpiece has a greater influence on the surface properties of the material. Effective problem diagnosis is necessary for machine systems to continue operations safely. Data-driven approaches have recent...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Measuring Surface Characteristics in Sustainable Machining of Titanium Alloys Using Deep Learning-Based Image Processing",
+			"publicationTitle": "IEEE Sensors Journal",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Yongbo Li",
+					"normalizedName": "Y. Li",
+					"firstName": "Yongbo",
+					"lastName": "Li",
+					"searchablePreferredName": "Yongbo Li",
+					"id": 37086420187
+				},
+				{
+					"preferredName": "Ziwen Guo",
+					"normalizedName": "Z. Guo",
+					"firstName": "Ziwen",
+					"lastName": "Guo",
+					"searchablePreferredName": "Ziwen Guo",
+					"id": 37089825319
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Zichen Deng",
+					"normalizedName": "Z. Deng",
+					"firstName": "Zichen",
+					"lastName": "Deng",
+					"searchablePreferredName": "Zichen Deng",
+					"id": 37089010365
+				},
+				{
+					"preferredName": "Khandaker Noman",
+					"normalizedName": "K. Noman",
+					"firstName": "Khandaker",
+					"lastName": "Noman",
+					"searchablePreferredName": "Khandaker Noman",
+					"id": 37089316254
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "7361",
+			"publicationDate": "1 May1, 2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/JSEN.2023.3257832",
+			"graphicalAbstract": {
+				"type": "graphic",
+				"file": "/ielx7/7361/10113769/10078148/graphical_abstract/jsen-gagraphic-3257832.jpg",
+				"coverImage": "/ielx7/7361/10113769/10078148/graphical_abstract/jsen-gagraphic-3257832.jpg"
+			},
+			"issue": "9",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=7361",
+			"startPage": "9523",
+			"endPage": "9535",
+			"pdfSize": "5060",
+			"ephemera": false,
+			"isNumber": "10113769",
+			"articleNumber": "10078148",
+			"documentLink": "/document/10078148/",
+			"articleTitle": "Instantaneous Angular Speed-Based Fault Diagnosis of Multicylinder Marine Diesel Engine Using Intrinsic Multiscale Dispersion Entropy",
+			"volume": "23",
+			"showVideo": false,
+			"downloadCount": 371,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=7361&title=Instantaneous+Angular+Speed-Based+Fault+Diagnosis+of+Multicylinder+Marine+Diesel+Engine+Using+Intrinsic+Multiscale+Dispersion+Entropy&isbn=null&publicationDate=1+May1%2C+2023&author=Yongbo+Li%3B+Ziwen+Guo%3B+Zhixiong+Li%3B+Zichen+Deng%3B+Khandaker+Noman&ContentID=10.1109/JSEN.2023.3257832&orderBeanReset=true&startPage=9523&endPage=9535&volumeNum=23&issueNum=9",
+			"htmlLink": "/document/10078148/",
+			"citationCount": 6,
+			"citationsLink": "/document/10078148/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Sensors Journal",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10078148",
+			"abstract": "Due to coupling of multiple cylinders during operation and association of high environmental noise, the existing waveform analysis is inefficient to identify the working status of large multicylinder marine diesel engines (MCMDEs). To solve this problem, a new framework named intrinsic multiscale dispersion entropy (IMDE) is proposed by calculating the MDE of intrinsically reconstructed instantane...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Instantaneous Angular Speed-Based Fault Diagnosis of Multicylinder Marine Diesel Engine Using Intrinsic Multiscale Dispersion Entropy",
+			"publicationTitle": "IEEE Sensors Journal",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Xiaoqiang Guo",
+					"normalizedName": "X. Guo",
+					"firstName": "Xiaoqiang",
+					"lastName": "Guo",
+					"searchablePreferredName": "Xiaoqiang Guo",
+					"id": 37089713905
+				},
+				{
+					"preferredName": "Xinhua Liu",
+					"normalizedName": "X. Liu",
+					"firstName": "Xinhua",
+					"lastName": "Liu",
+					"searchablePreferredName": "Xinhua Liu",
+					"id": 37088581326
+				},
+				{
+					"preferredName": "Xu Zhang",
+					"normalizedName": "X. Zhang",
+					"firstName": "Xu",
+					"lastName": "Zhang",
+					"searchablePreferredName": "Xu Zhang",
+					"id": 37090021663
+				},
+				{
+					"preferredName": "Grzegorz M. Królczyk",
+					"normalizedName": "G. M. Królczyk",
+					"firstName": "Grzegorz M.",
+					"lastName": "Królczyk",
+					"searchablePreferredName": "Grzegorz M. Królczyk",
+					"id": 37088929923
+				},
+				{
+					"preferredName": "Paolo Gardoni",
+					"normalizedName": "P. Gardoni",
+					"firstName": "Paolo",
+					"lastName": "Gardoni",
+					"searchablePreferredName": "Paolo Gardoni",
+					"id": 37085589294
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "7361",
+			"publicationDate": "1 Feb.1, 2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/JSEN.2022.3232714",
+			"graphicalAbstract": {
+				"type": "graphic",
+				"file": "/ielx7/7361/10032973/10006722/graphical_abstract/jsen-gagraphic-3232714.jpg",
+				"coverImage": "/ielx7/7361/10032973/10006722/graphical_abstract/jsen-gagraphic-3232714.jpg"
+			},
+			"issue": "3",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=7361",
+			"startPage": "3194",
+			"endPage": "3203",
+			"pdfSize": "2973",
+			"ephemera": false,
+			"isNumber": "10032973",
+			"articleNumber": "10006722",
+			"documentLink": "/document/10006722/",
+			"articleTitle": "A Novel Denoising Approach Based on Improved Invertible Neural Networks for Real-Time Conveyor Belt Monitoring",
+			"volume": "23",
+			"showVideo": false,
+			"downloadCount": 550,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=7361&title=A+Novel+Denoising+Approach+Based+on+Improved+Invertible+Neural+Networks+for+Real-Time+Conveyor+Belt+Monitoring&isbn=null&publicationDate=1+Feb.1%2C+2023&author=Xiaoqiang+Guo%3B+Xinhua+Liu%3B+Xu+Zhang%3B+Grzegorz+M.+Kr%C3%B3lczyk%3B+Paolo+Gardoni%3B+Zhixiong+Li&ContentID=10.1109/JSEN.2022.3232714&orderBeanReset=true&startPage=3194&endPage=3203&volumeNum=23&issueNum=3",
+			"htmlLink": "/document/10006722/",
+			"citationCount": 2,
+			"citationsLink": "/document/10006722/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Sensors Journal",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=10006722",
+			"abstract": "Powerful belt conveyor is the crucial transportation equipment for coal mining. Keeping its stable operation is essential to ensure the coal mining efficiency. At present, damage detection systems based on machine vision are widely studied and deployed. Clear images are the foundation for successful damage detection. However, in the harsh environment of underground coal seam, it is difficult to ca...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "A Novel Denoising Approach Based on Improved Invertible Neural Networks for Real-Time Conveyor Belt Monitoring",
+			"publicationTitle": "IEEE Sensors Journal",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Xin Hu",
+					"normalizedName": "X. Hu",
+					"firstName": "Xin",
+					"lastName": "Hu",
+					"searchablePreferredName": "Xin Hu",
+					"id": 37085414768
+				},
+				{
+					"preferredName": "Guibing Zhu",
+					"normalizedName": "G. Zhu",
+					"firstName": "Guibing",
+					"lastName": "Zhu",
+					"searchablePreferredName": "Guibing Zhu",
+					"id": 37085774908
+				},
+				{
+					"preferredName": "Yong Ma",
+					"normalizedName": "Y. Ma",
+					"firstName": "Yong",
+					"lastName": "Ma",
+					"searchablePreferredName": "Yong Ma",
+					"id": 37086311430
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Reza Malekian",
+					"normalizedName": "R. Malekian",
+					"firstName": "Reza",
+					"lastName": "Malekian",
+					"searchablePreferredName": "Reza Malekian",
+					"id": 37660874600
+				},
+				{
+					"preferredName": "Miguel Ángel Sotelo",
+					"normalizedName": "M. Á. Sotelo",
+					"firstName": "Miguel Ángel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Ángel Sotelo",
+					"id": 37282216100
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "25",
+			"publicationDate": "May 2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/TVT.2022.3231585",
+			"graphicalAbstract": {},
+			"issue": "5",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=25",
+			"startPage": "5664",
+			"endPage": "5676",
+			"pdfSize": "4461",
+			"ephemera": false,
+			"isNumber": "10124808",
+			"articleNumber": "9998083",
+			"documentLink": "/document/9998083/",
+			"articleTitle": "Dynamic Event-Triggered Adaptive Formation With Disturbance Rejection for Marine Vehicles Under Unknown Model Dynamics",
+			"volume": "72",
+			"showVideo": false,
+			"downloadCount": 734,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=25&title=Dynamic+Event-Triggered+Adaptive+Formation+With+Disturbance+Rejection+for+Marine+Vehicles+Under+Unknown+Model+Dynamics&isbn=null&publicationDate=May+2023&author=Xin+Hu%3B+Guibing+Zhu%3B+Yong+Ma%3B+Zhixiong+Li%3B+Reza+Malekian%3B+Miguel+%C3%81ngel+Sotelo&ContentID=10.1109/TVT.2022.3231585&orderBeanReset=true&startPage=5664&endPage=5676&volumeNum=72&issueNum=5",
+			"htmlLink": "/document/9998083/",
+			"citationCount": 13,
+			"citationsLink": "/document/9998083/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Vehicular Technology",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9998083",
+			"abstract": "This article investigates the dynamic event-triggered adaptive neural coordinated disturbance rejection for marine vehicles with external disturbances as the sinusoidal superpositions with unknown frequencies, amplitudes and phases. The vehicle movement mathematical models are transformed into parameterized expressions with the neural networks approximating nonlinear dynamics. The parametric exoge...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Dynamic Event-Triggered Adaptive Formation With Disturbance Rejection for Marine Vehicles Under Unknown Model Dynamics",
+			"publicationTitle": "IEEE Transactions on Vehicular Technology",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Guibing Zhu",
+					"normalizedName": "G. Zhu",
+					"firstName": "Guibing",
+					"lastName": "Zhu",
+					"searchablePreferredName": "Guibing Zhu",
+					"id": 37085774908
+				},
+				{
+					"preferredName": "Yong Ma",
+					"normalizedName": "Y. Ma",
+					"firstName": "Yong",
+					"lastName": "Ma",
+					"searchablePreferredName": "Yong Ma",
+					"id": 37086311430
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Reza Malekian",
+					"normalizedName": "R. Malekian",
+					"firstName": "Reza",
+					"lastName": "Malekian",
+					"searchablePreferredName": "Reza Malekian",
+					"id": 37660874600
+				},
+				{
+					"preferredName": "M. Sotelo",
+					"normalizedName": "M. Sotelo",
+					"firstName": "M.",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "M. Sotelo",
+					"id": 37282216100
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "6979",
+			"publicationDate": "Jan. 2023",
+			"publicationYear": "2023",
+			"doi": "10.1109/TITS.2022.3217152",
+			"graphicalAbstract": {},
+			"issue": "1",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=6979",
+			"startPage": "787",
+			"endPage": "800",
+			"pdfSize": "5136",
+			"ephemera": false,
+			"isNumber": "10026638",
+			"articleNumber": "9944384",
+			"documentLink": "/document/9944384/",
+			"articleTitle": "Dynamic Event-Triggered Adaptive Neural Output Feedback Control for MSVs Using Composite Learning",
+			"volume": "24",
+			"showVideo": false,
+			"downloadCount": 835,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6979&title=Dynamic+Event-Triggered+Adaptive+Neural+Output+Feedback+Control+for+MSVs+Using+Composite+Learning&isbn=null&publicationDate=Jan.+2023&author=Guibing+Zhu%3B+Yong+Ma%3B+Zhixiong+Li%3B+Reza+Malekian%3B+M.+Sotelo&ContentID=10.1109/TITS.2022.3217152&orderBeanReset=true&startPage=787&endPage=800&volumeNum=24&issueNum=1",
+			"htmlLink": "/document/9944384/",
+			"citationCount": 29,
+			"citationsLink": "/document/9944384/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9944384",
+			"abstract": "This paper investigates the control issue of marine surface vehicles (MSVs) subject to internal and external uncertainties without velocity information. Utilizing the specific advantages of adaptive neural network and disturbance observer, a classification reconstruction idea is developed. Based on this idea, a novel adaptive neural-based state observer with disturbance observer is proposed to rec...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Dynamic Event-Triggered Adaptive Neural Output Feedback Control for MSVs Using Composite Learning",
+			"publicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Wanli Liu",
+					"normalizedName": "W. Liu",
+					"firstName": "Wanli",
+					"lastName": "Liu",
+					"searchablePreferredName": "Wanli Liu",
+					"id": 37405584400
+				},
+				{
+					"preferredName": "Paolo Gardoni",
+					"normalizedName": "P. Gardoni",
+					"firstName": "Paolo",
+					"lastName": "Gardoni",
+					"searchablePreferredName": "Paolo Gardoni",
+					"id": 37085589294
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				},
+				{
+					"preferredName": "Grzegorz M. Królczyk",
+					"normalizedName": "G. M. Królczyk",
+					"firstName": "Grzegorz M.",
+					"lastName": "Królczyk",
+					"searchablePreferredName": "Grzegorz M. Królczyk",
+					"id": 37088929923
+				},
+				{
+					"preferredName": "Haiping Du",
+					"normalizedName": "H. Du",
+					"firstName": "Haiping",
+					"lastName": "Du",
+					"searchablePreferredName": "Haiping Du",
+					"id": 37395441600
+				},
+				{
+					"preferredName": "Weihua Li",
+					"normalizedName": "W. Li",
+					"firstName": "Weihua",
+					"lastName": "Li",
+					"searchablePreferredName": "Weihua Li",
+					"id": 37898013800
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. A. Sotelo",
+					"firstName": "Miguel Angel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "36",
+			"publicationDate": "2022",
+			"publicationYear": "2022",
+			"doi": "10.1109/TGRS.2022.3218564",
+			"graphicalAbstract": {},
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=36",
+			"startPage": "1",
+			"endPage": "14",
+			"externalId": "5705214",
+			"pdfSize": "6676",
+			"ephemera": false,
+			"isNumber": "9633014",
+			"articleNumber": "9933912",
+			"documentLink": "/document/9933912/",
+			"articleTitle": "Multiple Natural Features Fusion for On-Site Calibration of LiDAR Boresight Angle Misalignment",
+			"volume": "60",
+			"showVideo": false,
+			"downloadCount": 257,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=36&title=Multiple+Natural+Features+Fusion+for+On-Site+Calibration+of+LiDAR+Boresight+Angle+Misalignment&isbn=null&publicationDate=2022&author=Wanli+Liu%3B+Paolo+Gardoni%3B+Zhixiong+Li%3B+Grzegorz+M.+Kr%C3%B3lczyk%3B+Haiping+Du%3B+Weihua+Li%3B+Miguel+Angel+Sotelo&ContentID=10.1109/TGRS.2022.3218564&orderBeanReset=true&startPage=1&endPage=14&volumeNum=60",
+			"htmlLink": "/document/9933912/",
+			"citationCount": 0,
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"majorTopic": "Processing, Sensors and Systems for: Lidar Data",
+			"displayPublicationTitle": "IEEE Transactions on Geoscience and Remote Sensing",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9933912",
+			"abstract": "Boresight angle misalignment is a major error source in a mobile light detection and ranging (LiDAR) system (MLS), which directly affects the overall accuracy and quality of MLS scanned point clouds data. However, the current calibration of the boresight angle misalignment mainly relies on artificial target features or a manual adjustment, and the intensive labors dramatically limit the calibratio...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Multiple Natural Features Fusion for On-Site Calibration of LiDAR Boresight Angle Misalignment",
+			"publicationTitle": "IEEE Transactions on Geoscience and Remote Sensing",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Hai Wang",
+					"normalizedName": "H. Wang",
+					"firstName": "Hai",
+					"lastName": "Wang",
+					"searchablePreferredName": "Hai Wang",
+					"id": 37899359800
+				},
+				{
+					"preferredName": "Yansong Xu",
+					"normalizedName": "Y. Xu",
+					"firstName": "Yansong",
+					"lastName": "Xu",
+					"searchablePreferredName": "Yansong Xu",
+					"id": 37089487880
+				},
+				{
+					"preferredName": "Youguo He",
+					"normalizedName": "Y. He",
+					"firstName": "Youguo",
+					"lastName": "He",
+					"searchablePreferredName": "Youguo He",
+					"id": 37710161000
+				},
+				{
+					"preferredName": "Yingfeng Cai",
+					"normalizedName": "Y. Cai",
+					"firstName": "Yingfeng",
+					"lastName": "Cai",
+					"searchablePreferredName": "Yingfeng Cai",
+					"id": 37085727419
+				},
+				{
+					"preferredName": "Long Chen",
+					"normalizedName": "L. Chen",
+					"firstName": "Long",
+					"lastName": "Chen",
+					"searchablePreferredName": "Long Chen",
+					"id": 37406304800
+				},
+				{
+					"preferredName": "Yicheng Li",
+					"normalizedName": "Y. Li",
+					"firstName": "Yicheng",
+					"lastName": "Li",
+					"searchablePreferredName": "Yicheng Li",
+					"id": 37085702850
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. A. Sotelo",
+					"firstName": "Miguel Angel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "19",
+			"publicationDate": "2022",
+			"publicationYear": "2022",
+			"doi": "10.1109/TIM.2022.3196954",
+			"graphicalAbstract": {},
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=19",
+			"startPage": "1",
+			"endPage": "12",
+			"externalId": "2515612",
+			"pdfSize": "2563",
+			"ephemera": false,
+			"isNumber": "9717300",
+			"articleNumber": "9851677",
+			"documentLink": "/document/9851677/",
+			"articleTitle": "YOLOv5-Fog: A Multiobjective Visual Detection Algorithm for Fog Driving Scenes Based on Improved YOLOv5",
+			"volume": "71",
+			"showVideo": false,
+			"downloadCount": 2737,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=19&title=YOLOv5-Fog%3A+A+Multiobjective+Visual+Detection+Algorithm+for+Fog+Driving+Scenes+Based+on+Improved+YOLOv5&isbn=null&publicationDate=2022&author=Hai+Wang%3B+Yansong+Xu%3B+Youguo+He%3B+Yingfeng+Cai%3B+Long+Chen%3B+Yicheng+Li%3B+Miguel+Angel+Sotelo%3B+Zhixiong+Li&ContentID=10.1109/TIM.2022.3196954&orderBeanReset=true&startPage=1&endPage=12&volumeNum=71",
+			"htmlLink": "/document/9851677/",
+			"citationCount": 26,
+			"citationsLink": "/document/9851677/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9851677",
+			"abstract": "With the rapid development of deep learning in recent years, the level of automatic driving perception has also increased substantially. However, automatic driving perception under adverse conditions, such as fog, remains a significant obstacle. The existing fog-oriented detection algorithms are unable to simultaneously address the detection accuracy and detection speed. Based on improved YOLOv5, ...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "YOLOv5-Fog: A Multiobjective Visual Detection Algorithm for Fog Driving Scenes Based on Improved YOLOv5",
+			"publicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Cheng Zhang",
+					"normalizedName": "C. Zhang",
+					"firstName": "Cheng",
+					"lastName": "Zhang",
+					"searchablePreferredName": "Cheng Zhang",
+					"id": 37089463168
+				},
+				{
+					"preferredName": "Hai Wang",
+					"normalizedName": "H. Wang",
+					"firstName": "Hai",
+					"lastName": "Wang",
+					"searchablePreferredName": "Hai Wang",
+					"id": 37899359800
+				},
+				{
+					"preferredName": "Yingfeng Cai",
+					"normalizedName": "Y. Cai",
+					"firstName": "Yingfeng",
+					"lastName": "Cai",
+					"searchablePreferredName": "Yingfeng Cai",
+					"id": 37085727419
+				},
+				{
+					"preferredName": "Long Chen",
+					"normalizedName": "L. Chen",
+					"firstName": "Long",
+					"lastName": "Chen",
+					"searchablePreferredName": "Long Chen",
+					"id": 37406304800
+				},
+				{
+					"preferredName": "Yicheng Li",
+					"normalizedName": "Y. Li",
+					"firstName": "Yicheng",
+					"lastName": "Li",
+					"searchablePreferredName": "Yicheng Li",
+					"id": 37085702850
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. A. Sotelo",
+					"firstName": "Miguel Angel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "19",
+			"publicationDate": "2022",
+			"publicationYear": "2022",
+			"doi": "10.1109/TIM.2022.3191724",
+			"graphicalAbstract": {},
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=19",
+			"startPage": "1",
+			"endPage": "13",
+			"externalId": "2513713",
+			"pdfSize": "4272",
+			"ephemera": false,
+			"isNumber": "9717300",
+			"articleNumber": "9831988",
+			"documentLink": "/document/9831988/",
+			"articleTitle": "Robust-FusionNet: Deep Multimodal Sensor Fusion for 3-D Object Detection Under Severe Weather Conditions",
+			"volume": "71",
+			"showVideo": false,
+			"downloadCount": 1261,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=19&title=Robust-FusionNet%3A+Deep+Multimodal+Sensor+Fusion+for+3-D+Object+Detection+Under+Severe+Weather+Conditions&isbn=null&publicationDate=2022&author=Cheng+Zhang%3B+Hai+Wang%3B+Yingfeng+Cai%3B+Long+Chen%3B+Yicheng+Li%3B+Miguel+Angel+Sotelo%3B+Zhixiong+Li&ContentID=10.1109/TIM.2022.3191724&orderBeanReset=true&startPage=1&endPage=13&volumeNum=71",
+			"htmlLink": "/document/9831988/",
+			"citationCount": 10,
+			"citationsLink": "/document/9831988/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9831988",
+			"abstract": "The LiDAR point cloud data and camera images are distorted to a different degree under various severe weather conditions. Due to this, the traditional single-modal object detection methods are unable to use the complementary information between different sensors. Consequently, these algorithms are unable to address various issues caused by severe weather conditions. Recently, the multimodal data f...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "Robust-FusionNet: Deep Multimodal Sensor Fusion for 3-D Object Detection Under Severe Weather Conditions",
+			"publicationTitle": "IEEE Transactions on Instrumentation and Measurement",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		},
+		{
+			"authors": [
+				{
+					"preferredName": "Hai Wang",
+					"normalizedName": "H. Wang",
+					"firstName": "Hai",
+					"lastName": "Wang",
+					"searchablePreferredName": "Hai Wang",
+					"id": 37899359800
+				},
+				{
+					"preferredName": "Yanyan Chen",
+					"normalizedName": "Y. Chen",
+					"firstName": "Yanyan",
+					"lastName": "Chen",
+					"searchablePreferredName": "Yanyan Chen",
+					"id": 37089591875
+				},
+				{
+					"preferredName": "Yingfeng Cai",
+					"normalizedName": "Y. Cai",
+					"firstName": "Yingfeng",
+					"lastName": "Cai",
+					"searchablePreferredName": "Yingfeng Cai",
+					"id": 37085727419
+				},
+				{
+					"preferredName": "Long Chen",
+					"normalizedName": "L. Chen",
+					"firstName": "Long",
+					"lastName": "Chen",
+					"searchablePreferredName": "Long Chen",
+					"id": 37406304800
+				},
+				{
+					"preferredName": "Yicheng Li",
+					"normalizedName": "Y. Li",
+					"firstName": "Yicheng",
+					"lastName": "Li",
+					"searchablePreferredName": "Yicheng Li",
+					"id": 37085702850
+				},
+				{
+					"preferredName": "Miguel Angel Sotelo",
+					"normalizedName": "M. A. Sotelo",
+					"firstName": "Miguel Angel",
+					"lastName": "Sotelo",
+					"searchablePreferredName": "Miguel Angel Sotelo",
+					"id": 37282216100
+				},
+				{
+					"preferredName": "Zhixiong Li",
+					"normalizedName": "Z. Li",
+					"firstName": "Zhixiong",
+					"lastName": "Li",
+					"searchablePreferredName": "Zhixiong Li",
+					"id": 37279081500
+				}
+			],
+			"patentCitationCount": 0,
+			"accessType": {
+				"type": "locked",
+				"message": "Full text access may be available."
+			},
+			"publicationNumber": "6979",
+			"publicationDate": "Nov. 2022",
+			"publicationYear": "2022",
+			"doi": "10.1109/TITS.2022.3177615",
+			"graphicalAbstract": {},
+			"issue": "11",
+			"publicationLink": "/xpl/RecentIssue.jsp?punumber=6979",
+			"startPage": "21405",
+			"endPage": "21417",
+			"pdfSize": "6891",
+			"ephemera": false,
+			"isNumber": "9942712",
+			"articleNumber": "9784832",
+			"documentLink": "/document/9784832/",
+			"articleTitle": "SFNet-N: An Improved SFNet Algorithm for Semantic Segmentation of Low-Light Autonomous Driving Road Scenes",
+			"volume": "23",
+			"showVideo": false,
+			"downloadCount": 3250,
+			"showHtml": true,
+			"rightslinkFlag": true,
+			"rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=6979&title=SFNet-N%3A+An+Improved+SFNet+Algorithm+for+Semantic+Segmentation+of+Low-Light+Autonomous+Driving+Road+Scenes&isbn=null&publicationDate=Nov.+2022&author=Hai+Wang%3B+Yanyan+Chen%3B+Yingfeng+Cai%3B+Long+Chen%3B+Yicheng+Li%3B+Miguel+Angel+Sotelo%3B+Zhixiong+Li&ContentID=10.1109/TITS.2022.3177615&orderBeanReset=true&startPage=21405&endPage=21417&volumeNum=23&issueNum=11",
+			"htmlLink": "/document/9784832/",
+			"citationCount": 101,
+			"citationsLink": "/document/9784832/citations?tabFilter=papers",
+			"showDataset": false,
+			"vj": false,
+			"showAlgorithm": false,
+			"publisher": "IEEE",
+			"showCheckbox": true,
+			"handleProduct": false,
+			"redline": false,
+			"contentType": "IEEE Journals",
+			"displayPublicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isOnlineOnly": false,
+			"pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9784832",
+			"abstract": "In recent years, considerable progress has been made in semantic segmentation of images with favorable environments. However, the environmental perception of autonomous driving under adverse weather conditions is still very challenging. In particular, the low visibility at nighttime greatly affects driving safety. In this paper, we aim to explore image segmentation in low-light scenarios, thereby ...",
+			"articleContentType": "Journals",
+			"isImmersiveArticle": false,
+			"highlightedTitle": "SFNet-N: An Improved SFNet Algorithm for Semantic Segmentation of Low-Light Autonomous Driving Road Scenes",
+			"publicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+			"isBook": false,
+			"isBookWithoutChapters": false,
+			"course": false,
+			"docIdentifier": "IEEE Journals",
+			"isStandard": false,
+			"isEarlyAccess": false,
+			"isConference": false,
+			"isJournal": false,
+			"isJournalAndMagazine": true,
+			"isMagazine": false,
+			"displayContentType": "Journal Article"
+		}
+	],
+	"breadCrumbs": [
+		{
+			"type": "search",
+			"children": [
+				{
+					"key": "\"Author Ids\"",
+					"value": "37279081500",
+					"reference": "authorIds:37279081500",
+					"display": "\"Author Ids\":37279081500"
+				}
+			]
+		}
+	],
+	"showStandardDictionary": false,
+	"facets": [
+		{
+			"id": "ContentType",
+			"name": "Content Type",
+			"numRecords": -1,
+			"children": [
+				{
+					"id": "ContentType:Journals",
+					"name": "Journals",
+					"numRecords": 59,
+					"active": "true"
+				},
+				{
+					"id": "ContentType:Magazines",
+					"name": "Magazines",
+					"numRecords": 9,
+					"active": "true"
+				},
+				{
+					"id": "ContentType:Conferences",
+					"name": "Conferences",
+					"numRecords": 2,
+					"active": "true"
+				},
+				{
+					"id": "ContentType:Early Access Articles",
+					"name": "Early Access Articles",
+					"numRecords": 2,
+					"active": "true"
+				}
+			],
+			"active": "true"
+		},
+		{
+			"id": "PublicationYear",
+			"name": "Year",
+			"numRecords": -1,
+			"children": [
+				{
+					"id": "PublicationYear:2016",
+					"name": "2016",
+					"numRecords": 1,
+					"active": "true"
+				},
+				{
+					"id": "PublicationYear:2017",
+					"name": "2017",
+					"numRecords": 3,
+					"active": "true"
+				},
+				{
+					"id": "PublicationYear:2018",
+					"name": "2018",
+					"numRecords": 3,
+					"active": "true"
+				},
+				{
+					"id": "PublicationYear:2019",
+					"name": "2019",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "PublicationYear:2020",
+					"name": "2020",
+					"numRecords": 9,
+					"active": "true"
+				},
+				{
+					"id": "PublicationYear:2021",
+					"name": "2021",
+					"numRecords": 14,
+					"active": "true"
+				},
+				{
+					"id": "PublicationYear:2022",
+					"name": "2022",
+					"numRecords": 15,
+					"active": "true"
+				},
+				{
+					"id": "PublicationYear:2023",
+					"name": "2023",
+					"numRecords": 14,
+					"active": "true"
+				},
+				{
+					"id": "PublicationYear:2024",
+					"name": "2024",
+					"numRecords": 7,
+					"active": "true"
+				}
+			],
+			"active": "true"
+		},
+		{
+			"id": "Author",
+			"name": "Author",
+			"numRecords": -1,
+			"children": [
+				{
+					"id": "Author:Zhixiong Li",
+					"name": "Zhixiong Li",
+					"numRecords": 71,
+					"active": "true"
+				},
+				{
+					"id": "Author:Miguel Angel Sotelo",
+					"name": "Miguel Angel Sotelo",
+					"numRecords": 36,
+					"active": "true"
+				},
+				{
+					"id": "Author:Reza Malekian",
+					"name": "Reza Malekian",
+					"numRecords": 22,
+					"active": "true"
+				},
+				{
+					"id": "Author:Yicheng Li",
+					"name": "Yicheng Li",
+					"numRecords": 13,
+					"active": "true"
+				},
+				{
+					"id": "Author:Yingfeng Cai",
+					"name": "Yingfeng Cai",
+					"numRecords": 12,
+					"active": "true"
+				},
+				{
+					"id": "Author:Yong Ma",
+					"name": "Yong Ma",
+					"numRecords": 12,
+					"active": "true"
+				},
+				{
+					"id": "Author:Weihua Li",
+					"name": "Weihua Li",
+					"numRecords": 11,
+					"active": "true"
+				},
+				{
+					"id": "Author:Hai Wang",
+					"name": "Hai Wang",
+					"numRecords": 10,
+					"active": "true"
+				},
+				{
+					"id": "Author:Long Chen",
+					"name": "Long Chen",
+					"numRecords": 9,
+					"active": "true"
+				},
+				{
+					"id": "Author:Shuaishuai Sun",
+					"name": "Shuaishuai Sun",
+					"numRecords": 7,
+					"active": "true"
+				},
+				{
+					"id": "Author:Grzegorz M. Królczyk",
+					"name": "Grzegorz M. Królczyk",
+					"numRecords": 7,
+					"active": "true"
+				},
+				{
+					"id": "Author:Wanli Liu",
+					"name": "Wanli Liu",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "Author:Yulin Ma",
+					"name": "Yulin Ma",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "Author:Guibing Zhu",
+					"name": "Guibing Zhu",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "Author:Xinhua Liu",
+					"name": "Xinhua Liu",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "Author:Paolo Gardoni",
+					"name": "Paolo Gardoni",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "Author:Haiping Du",
+					"name": "Haiping Du",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "Author:M. Sotelo",
+					"name": "M. Sotelo",
+					"numRecords": 4,
+					"active": "true"
+				},
+				{
+					"id": "Author:Zhaozheng Hu",
+					"name": "Zhaozheng Hu",
+					"numRecords": 4,
+					"active": "true"
+				},
+				{
+					"id": "Author:Dezheng Hua",
+					"name": "Dezheng Hua",
+					"numRecords": 4,
+					"active": "true"
+				},
+				{
+					"id": "Author:Munish Kumar Gupta",
+					"name": "Munish Kumar Gupta",
+					"numRecords": 4,
+					"active": "true"
+				},
+				{
+					"id": "Author:Songlin Hu",
+					"name": "Songlin Hu",
+					"numRecords": 3,
+					"active": "true"
+				},
+				{
+					"id": "Author:Fernando Garcia Fernandez",
+					"name": "Fernando Garcia Fernandez",
+					"numRecords": 3,
+					"active": "true"
+				},
+				{
+					"id": "Author:Xin Qi",
+					"name": "Xin Qi",
+					"numRecords": 3,
+					"active": "true"
+				},
+				{
+					"id": "Author:Mehmet Erdi Korkmaz",
+					"name": "Mehmet Erdi Korkmaz",
+					"numRecords": 3,
+					"active": "true"
+				}
+			],
+			"active": "true"
+		},
+		{
+			"id": "Affiliation",
+			"name": "Affiliation",
+			"numRecords": -1,
+			"children": [
+				{
+					"id": "Affiliation:Faculty of Mechanical Engineering, Opole University of Technology, Opole, Poland",
+					"name": "Faculty of Mechanical Engineering, Opole University of Technology, Opole, Poland",
+					"numRecords": 31,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Department of Computer Engineering, University of Alcalá, Alcalá de Henares, Spain",
+					"name": "Department of Computer Engineering, University of Alcalá, Alcalá de Henares, Spain",
+					"numRecords": 15,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Automotive Engineering Research Institute, Jiangsu University, Zhenjiang, China",
+					"name": "Automotive Engineering Research Institute, Jiangsu University, Zhenjiang, China",
+					"numRecords": 11,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Department of Computer Science and Media Technology, Malmö University, Malmö, Sweden",
+					"name": "Department of Computer Science and Media Technology, Malmö University, Malmö, Sweden",
+					"numRecords": 10,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:School of Mechanical, Materials, Mechatronic and Biomedical Engineering, University of Wollongong, Wollongong, NSW, Australia",
+					"name": "School of Mechanical, Materials, Mechatronic and Biomedical Engineering, University of Wollongong, Wollongong, NSW, Australia",
+					"numRecords": 10,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:School of Automotive and Traffic Engineering, Jiangsu University, Zhenjiang, China",
+					"name": "School of Automotive and Traffic Engineering, Jiangsu University, Zhenjiang, China",
+					"numRecords": 9,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Yonsei Frontier Laboratory, Yonsei University, Seoul, Republic of Korea",
+					"name": "Yonsei Frontier Laboratory, Yonsei University, Seoul, Republic of Korea",
+					"numRecords": 9,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:School of Mechatronic Engineering, China University of Mining and Technology, Xuzhou, China",
+					"name": "School of Mechatronic Engineering, China University of Mining and Technology, Xuzhou, China",
+					"numRecords": 7,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Hubei Key Laboratory of Inland Shipping Technology, School of Navigation, Wuhan University of Technology, Wuhan, China",
+					"name": "Hubei Key Laboratory of Inland Shipping Technology, School of Navigation, Wuhan University of Technology, Wuhan, China",
+					"numRecords": 7,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:New Industry Creation Hatchery Center, Tohoku University, Sendai, Japan",
+					"name": "New Industry Creation Hatchery Center, Tohoku University, Sendai, Japan",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Department of Computer Engineering, University of Alcalá, Madrid, Spain",
+					"name": "Department of Computer Engineering, University of Alcalá, Madrid, Spain",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Yonsei Frontier Laboratory, Yonsei University, Seoul, South Korea",
+					"name": "Yonsei Frontier Laboratory, Yonsei University, Seoul, South Korea",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:School of Engineering, Ocean University of China, Qingdao, China",
+					"name": "School of Engineering, Ocean University of China, Qingdao, China",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Yonsei Frontier Lab, Yonsei University, Seoul, Republic of Korea",
+					"name": "Yonsei Frontier Lab, Yonsei University, Seoul, Republic of Korea",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:School of Mechanical, Materials, Mechatronic and Biomedical Engineering, University of Wollongong, Wollongong, Australia",
+					"name": "School of Mechanical, Materials, Mechatronic and Biomedical Engineering, University of Wollongong, Wollongong, Australia",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Department of Computer Engineering, University of Alcalá, Alcalá de Henares (Madrid), Spain",
+					"name": "Department of Computer Engineering, University of Alcalá, Alcalá de Henares (Madrid), Spain",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Department of Electrical, Electronic and Computer Engineering, University of Pretoria, Pretoria, South Africa",
+					"name": "Department of Electrical, Electronic and Computer Engineering, University of Pretoria, Pretoria, South Africa",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:School of Mechanical and Electrical Engineering, China University of Mining and Technology, Xuzhou, China",
+					"name": "School of Mechanical and Electrical Engineering, China University of Mining and Technology, Xuzhou, China",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Chongqing Research Institute, Wuhan University of Technology, Chongqing, China",
+					"name": "Chongqing Research Institute, Wuhan University of Technology, Chongqing, China",
+					"numRecords": 4,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:School of Engineering, Ocean University of China, Tsingdao, China",
+					"name": "School of Engineering, Ocean University of China, Tsingdao, China",
+					"numRecords": 4,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Department of Computer Engineering, University of Alcal, Alcal de Henares, Spain",
+					"name": "Department of Computer Engineering, University of Alcal, Alcal de Henares, Spain",
+					"numRecords": 3,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Yonsei Frontier Lab, Yonsei University, Seoul, South Korea",
+					"name": "Yonsei Frontier Lab, Yonsei University, Seoul, South Korea",
+					"numRecords": 3,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Department of Computer Engineering, University of Alcalá, Alcalá de Henares, Madrid, Spain",
+					"name": "Department of Computer Engineering, University of Alcalá, Alcalá de Henares, Madrid, Spain",
+					"numRecords": 3,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:Department of Computer Science and Media Technology, Malmo University, Malmö, Sweden",
+					"name": "Department of Computer Science and Media Technology, Malmo University, Malmö, Sweden",
+					"numRecords": 3,
+					"active": "true"
+				},
+				{
+					"id": "Affiliation:ITS Research Center, Wuhan University of Technology, Wuhan, China",
+					"name": "ITS Research Center, Wuhan University of Technology, Wuhan, China",
+					"numRecords": 3,
+					"active": "true"
+				}
+			],
+			"active": "true"
+		},
+		{
+			"id": "PublicationTitle",
+			"name": "Publication Title",
+			"numRecords": -1,
+			"children": [
+				{
+					"id": "PublicationTitle:IEEE Transactions on Intelligent Transportation Systems",
+					"name": "IEEE Transactions on Intelligent Transportation Systems",
+					"numRecords": 16,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Transactions on Instrumentation and Measurement",
+					"name": "IEEE Transactions on Instrumentation and Measurement",
+					"numRecords": 10,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Access",
+					"name": "IEEE Access",
+					"numRecords": 9,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Intelligent Transportation Systems Magazine",
+					"name": "IEEE Intelligent Transportation Systems Magazine",
+					"numRecords": 8,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Sensors Journal",
+					"name": "IEEE Sensors Journal",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Transactions on Geoscience and Remote Sensing",
+					"name": "IEEE Transactions on Geoscience and Remote Sensing",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Transactions on Vehicular Technology",
+					"name": "IEEE Transactions on Vehicular Technology",
+					"numRecords": 4,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE/ASME Transactions on Mechatronics",
+					"name": "IEEE/ASME Transactions on Mechatronics",
+					"numRecords": 4,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Transactions on Industrial Informatics",
+					"name": "IEEE Transactions on Industrial Informatics",
+					"numRecords": 2,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:2021 6th International Conference on Nanotechnology for Instrumentation and Measurement (NanofIM)",
+					"name": "2021 6th International Conference on Nanotechnology for Instrumentation and Measurement (NanofIM)",
+					"numRecords": 1,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:2023 IEEE 10th International Workshop on Metrology for AeroSpace (MetroAeroSpace)",
+					"name": "2023 IEEE 10th International Workshop on Metrology for AeroSpace (MetroAeroSpace)",
+					"numRecords": 1,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Instrumentation .AND. Measurement Magazine",
+					"name": "IEEE Instrumentation & Measurement Magazine",
+					"numRecords": 1,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Internet of Things Journal",
+					"name": "IEEE Internet of Things Journal",
+					"numRecords": 1,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Transactions on Antennas and Propagation",
+					"name": "IEEE Transactions on Antennas and Propagation",
+					"numRecords": 1,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Transactions on Image Processing",
+					"name": "IEEE Transactions on Image Processing",
+					"numRecords": 1,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Transactions on Industrial Electronics",
+					"name": "IEEE Transactions on Industrial Electronics",
+					"numRecords": 1,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTitle:IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+					"name": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+					"numRecords": 1,
+					"active": "true"
+				}
+			],
+			"active": "true"
+		},
+		{
+			"id": "Publisher",
+			"name": "Publisher",
+			"numRecords": -1,
+			"children": [
+				{
+					"id": "Publisher:IEEE",
+					"name": "IEEE",
+					"numRecords": 72,
+					"active": "true"
+				}
+			],
+			"active": "true"
+		},
+		{
+			"id": "SupplementalItem",
+			"name": "Supplemental Items",
+			"numRecords": -1,
+			"children": [
+				{
+					"id": "SupplementalItem:Media",
+					"name": "Media",
+					"numRecords": 4,
+					"active": "true"
+				}
+			],
+			"active": "true"
+		},
+		{
+			"id": "ConferenceLocation",
+			"name": "Conference Location",
+			"numRecords": -1,
+			"children": [
+				{
+					"id": "ConferenceLocation:Milan, Italy",
+					"name": "Milan, Italy",
+					"numRecords": 1,
+					"active": "true"
+				},
+				{
+					"id": "ConferenceLocation:Opole, Poland",
+					"name": "Opole, Poland",
+					"numRecords": 1,
+					"active": "true"
+				}
+			],
+			"active": "true"
+		},
+		{
+			"id": "PublicationTopics",
+			"name": "Publication Topics",
+			"numRecords": -1,
+			"children": [
+				{
+					"id": "PublicationTopics:Neural Network",
+					"name": "Neural Network",
+					"numRecords": 12,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Point Cloud",
+					"name": "Point Cloud",
+					"numRecords": 10,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Autonomous Vehicles",
+					"name": "Autonomous Vehicles",
+					"numRecords": 9,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Adaptive Control",
+					"name": "Adaptive Control",
+					"numRecords": 8,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Convolutional Neural Network",
+					"name": "Convolutional Neural Network",
+					"numRecords": 8,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Light Detection And Ranging",
+					"name": "Light Detection And Ranging",
+					"numRecords": 8,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Adaptive Law",
+					"name": "Adaptive Law",
+					"numRecords": 7,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Convolutional Layers",
+					"name": "Convolutional Layers",
+					"numRecords": 7,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:External Disturbances",
+					"name": "External Disturbances",
+					"numRecords": 7,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Inertial Measurement Unit",
+					"name": "Inertial Measurement Unit",
+					"numRecords": 7,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Magnetic Field",
+					"name": "Magnetic Field",
+					"numRecords": 7,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Optimal Control",
+					"name": "Optimal Control",
+					"numRecords": 7,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Attention Mechanism",
+					"name": "Attention Mechanism",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Deep Learning",
+					"name": "Deep Learning",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Intelligent Vehicles",
+					"name": "Intelligent Vehicles",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Long Short-term Memory",
+					"name": "Long Short-term Memory",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Magnetic Flux",
+					"name": "Magnetic Flux",
+					"numRecords": 6,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Actuator",
+					"name": "Actuator",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Autonomous Surface Vehicles",
+					"name": "Autonomous Surface Vehicles",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Control Strategy",
+					"name": "Control Strategy",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Control System",
+					"name": "Control System",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Detection Accuracy",
+					"name": "Detection Accuracy",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Generative Adversarial Networks",
+					"name": "Generative Adversarial Networks",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Global Positioning System",
+					"name": "Global Positioning System",
+					"numRecords": 5,
+					"active": "true"
+				},
+				{
+					"id": "PublicationTopics:Local Features",
+					"name": "Local Features",
+					"numRecords": 5,
+					"active": "true"
+				}
+			],
+			"active": "true"
+		}
+	],
+	"searchType": "author",
+	"recordsPerPage": 25,
+	"totalRecords": 72,
+	"sortValue": "newest",
+	"startRecord": 0,
+	"promoApplied": false,
+	"endRecord": 25,
+	"totalPages": 3,
+	"subscribedContentApplied": false
+}
